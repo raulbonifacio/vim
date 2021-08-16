@@ -12,6 +12,6 @@
 	"prettier.printWidth": 80,
 	"intelephense.completion.triggerParameterHints": false,
 	"clangd.disableSnippetCompletion": true,
-  "clangd.path": "/home/david/.config/coc/extensions/coc-clangd-data/install/12.0.0/clangd_12.0.0/bin/clangd",
-  "java.format.settings.url": "/home/david/.config/coc/extensions/node_modules/redhat.java/eclipse-formatter.xml"
+	"clangd.path": "/home/david/.config/coc/extensions/coc-clangd-data/install/12.0.0/clangd_12.0.0/bin/clangd",
+	"java.format.settings.url": "/home/david/.config/coc/extensions/node_modules/redhat.java/eclipse-formatter.xml"
 }
