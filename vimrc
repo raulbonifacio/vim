@@ -187,7 +187,7 @@ highlight TabLineSel ctermfg=15 ctermbg=0
 highlight TablineFill ctermfg=0 ctermbg=0
 highlight Search ctermfg=9 ctermbg=8
 highlight IncSearch ctermfg=6 ctermbg=0
-highlight MatchParen ctermbg=8NONE
+highlight MatchParen ctermbg=8
 
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
 let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
