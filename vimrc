@@ -173,6 +173,7 @@ set background=dark
 set t_Co=16
 set fillchars+=vert:\ "
 set signcolumn=number
+set ruler
 
 highlight SignColumn ctermbg=NONE
 highlight Pmenu ctermfg=7 ctermbg=0
